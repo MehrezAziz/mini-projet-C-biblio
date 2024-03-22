@@ -1,0 +1,4 @@
+livre   programmation-c   Salle   5000   12   Tarak-Saad   Salem-Jrad   8   wed  jul  05  12:30:00  2020
+livre   FranCais   SaLLe   5001   12   Ba   Mahrous   1   Tue  Jan  18  18:02:50  2021
+livre   anglais   rayon   5004   4   khlifa   ahmed   0   wed  Jan  08  08:45:05  2021
+fiin3finfinfzeANbBrty   f   f   -903   0   f   f   0   f  f  0  f  0
